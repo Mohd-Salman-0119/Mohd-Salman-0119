@@ -63,8 +63,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" height="200" />
+  <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" alt="streak graph" height="200" />
 </div>
 
 ###
