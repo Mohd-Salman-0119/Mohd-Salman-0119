@@ -62,6 +62,12 @@
 
 <br clear="both">
 
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mohd-Salman-0119&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contribution" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd-Salman-0119&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
+  
+</div>
+
 <div align="left" style="display:flex justify-content:space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" height="200"/>
   <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" alt="streak graph" height="200" />
@@ -69,10 +75,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd-Salman-0119&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohd-Salman-0119&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contribution" height="200" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mohd-Salman-0119&theme=radical&no-frame=false&no-bg=false&margin-w=4)
