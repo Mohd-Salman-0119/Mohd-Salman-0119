@@ -1,10 +1,12 @@
 <br clear="both">
 
-<h2 align="center">👨‍💻 Mohd Salman | Front-end Web Developer</h2>
+<h1 align="center">👨‍💻 Mohd Salman | Front-end Web Developer</h1>
 
 ###
 
-<h4 align="center">🎓 Currently Pursuing Full Stack Web Development at Masai School<br><br>🚀 Transforming Ideas into Seamless Web Experiences | Passionate about JavaScript, React, and Crafting Elegant UIs</h4>
+<h3 align="center">🎓 Currently Pursuing Full Stack Web Development at Masai School<br><br>🚀 Transforming Ideas into Seamless Web Experiences | Passionate about JavaScript, React, and Crafting Elegant UIs</h3>
+
+<br clear="both">
 
 ###
 
@@ -68,7 +70,7 @@
   
 </div>
 
-<div align="left" style="display:flex justify-content:space-between">
+<div align="left" style="display: flex justify-content:space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" height="200"/>
   <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" alt="streak graph" height="200" />
 </div>
