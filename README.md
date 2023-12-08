@@ -97,10 +97,9 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="145" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd-Salman-0119&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
