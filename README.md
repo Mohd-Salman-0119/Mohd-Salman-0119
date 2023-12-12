@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">👨‍💻 Mohd Salman | Front-end Web Developer</h2>
+<h1 align="center">👨‍💻 Mohd Salman | Front-end Web Developer</h1>
 
 ###
 
@@ -25,6 +25,16 @@
 ###
 
 <p align="left">- IIT Kanpur Computer System Security<br>- HackerRank Certificates in Basic JavaScript, Basic CSS, Basic Java</p>
+
+###
+
+<h2 align="left">📫 Let's connect</h2>
+
+###
+
+<p align="left">Portfolio: https://mohd-salman-0119.github.io</p>
+<p align="left"> LinkedIn: https://www.linkedin.com/in/mohd-salman-044599218</p>
+<p align="left">Email: salmanansari910550@gmail.com</p>
 
 ###
 
@@ -76,32 +86,17 @@
 
 ###
 
-<h3 align="left">📊GitHub Stats</h3>
+<br clear="both">
+
+<h3 align="left">📊 GitHub Stats</h3>
 
 ###
 
 <br clear="both">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-salman-0119&theme=tokyonight" />
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">📧 Contact</h2>
-
-###
-
-<div align="left">
-  <a href="salmanansari910550@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohd-salman-044599218/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Salman-0119&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="145" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mohd-Salman-0119&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="146" alt="streak graph"  />
 </div>
 
 ###
