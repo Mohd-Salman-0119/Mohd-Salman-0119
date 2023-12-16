@@ -32,8 +32,8 @@
 
 ###
 
-<p align="left">Portfolio: https://mohd-salman-0119.github.io</p>
-<p align="left"> LinkedIn: https://www.linkedin.com/in/mohd-salman-044599218</p>
+<p align="left">Portfolio: https://mohd-salman-0119.github.io/</p>
+<p align="left"> LinkedIn: https://www.linkedin.com/in/mohd-salman-044599218/</p>
 <p align="left">Email: salmanansari910550@gmail.com</p>
 
 ###
