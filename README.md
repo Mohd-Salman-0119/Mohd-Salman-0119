@@ -32,9 +32,25 @@
 
 ###
 
-<p align="left">Portfolio: https://mohd-salman-0119.github.io/</p>
-<p align="left"> LinkedIn: https://www.linkedin.com/in/mohd-salman-044599218/</p>
-<p align="left">Email: salmanansari910550@gmail.com</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohd-salman-044599218/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/salmanansari9101" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://codesandbox.io/invite/mlwt8r6h6r6969qs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+  </a>
+  <a href="https://codepen.io/Mohd-Salman-0119" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=salmanansari910550@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 ###
 
